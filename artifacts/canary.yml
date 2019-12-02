@@ -9,6 +9,7 @@ spec:
       labels:
         app: nginx
         env: production
+        color: blue
         type: canary
     spec:
       containers:
